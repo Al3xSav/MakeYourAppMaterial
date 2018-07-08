@@ -1,0 +1,18 @@
+<resources>
+    <!-- detail -->
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <item name="title_lineSpacingMultiplier" format="float" type="dimen">0.9</item>
+
+    <!-- Fab Sizes -->
+    <dimen name="fab_elevation">2dp</dimen>
+
+    <!-- Custom Sizes -->
+    <integer name="one">1</integer>
+    <dimen name="progressbar">40dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="margin">6dp</dimen>
+    <dimen name="radius">5dp</dimen>
+    <dimen name="height_xxlarge">300dp</dimen>
+    <dimen name="height_xlarge">150dp</dimen>
+    <dimen name="height_large">100dp</dimen>
+</resources>
