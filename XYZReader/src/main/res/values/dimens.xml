@@ -4,7 +4,7 @@
     <item name="title_lineSpacingMultiplier" format="float" type="dimen">0.9</item>
 
     <!-- Fab Sizes -->
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
 
     <!-- Custom Sizes -->
     <integer name="one">1</integer>
