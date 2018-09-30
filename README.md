@@ -35,3 +35,12 @@ You should have the skills you need to complete this app after completing:
 * Execute the improvements!
 * Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 * For detailed information on how your project will be assessed, see the Rubric node.
+
+# Screeshots
+
+<img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/pixlr_20180930201839622.jpg?raw=true" height="500" width="450"/><br/><br/>
+<img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/Screenshot_1538327039.png?raw=true" height="500" width="350"/><br/><br/>
+<img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/Screenshot_1538327231.png?raw=true" height="500" width="350"/><br/><br/>
+<img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/Screenshot_1538327338.png?raw=true" height="500" width="350"/><br/><br/>
+
+## Download <a href="">XYRead APK</a>
