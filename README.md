@@ -43,4 +43,4 @@ You should have the skills you need to complete this app after completing:
 <img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/Screenshot_1538327231.png?raw=true" height="500" width="350"/><br/><br/>
 <img src="https://github.com/Al3xSav/MakeYourAppMaterial/blob/master/screenshots/Screenshot_1538327338.png?raw=true" height="500" width="350"/><br/><br/>
 
-## Download <a href="https://drive.google.com/open?id=1rsCO9Vspw9B_SyxpgEC2vEwhxXu-02Tu?raw=true">XYRead APK</a>
+## Download <a href="https://drive.google.com/open?id=1rsCO9Vspw9B_SyxpgEC2vEwhxXu-02Tu">XYRead APK</a>
